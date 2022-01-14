@@ -1,8 +1,7 @@
 ---
 layout: page
-title: 
+title: გამარჯობა
 permalink: /about
 ---
 
-### გამარჯობა,
 მე ვარ ლადო ხასაია.
