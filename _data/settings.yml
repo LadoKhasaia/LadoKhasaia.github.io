@@ -22,11 +22,11 @@ social:
 
 # Customize site text
 pagination:
-  next_page: 'Newer'
-  previous_page: 'Older'
+  next_page: 'შემდეგი'
+  previous_page: 'წინა'
 
 sharing_button_prompt: 'Feel free to share!'
 
-related_posts: 'You may also enjoy:'
+related_posts: 'მსგავსი:'
 
 post_date_prefix: 'Written on'
