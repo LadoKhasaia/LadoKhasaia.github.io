@@ -7,7 +7,7 @@ disqus:
 # google-ID: 'UA-112060364-1'
 
 menu:
-- {name: 'lado',   url: 'about.html'}
+- {name: 'ლადო ხასაია',   url: 'about.html'}
 - {name: 'პოსტები', url: 'writing.html'}
 - {name: 'კონტაქტი', url: 'contact.html'}
 
