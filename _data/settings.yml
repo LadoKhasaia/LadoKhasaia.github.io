@@ -5,7 +5,7 @@ disqus:
 
 menu:
 - {name: 'ლადო ხასაია', url: 'about.html'}
-- {name: 'პოსტები', url: 'writing.html'}
+- {name: 'არქივი', url: 'writing.html'}
 - {name: 'კონტაქტი', url: 'contact.html'}
 
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer

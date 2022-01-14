@@ -4,6 +4,4 @@ layout: page
 permalink: /contact
 ---
 
-კითხვების შემთხვევაში დამიკავშირდით:
-
 ladokhasaia@pm.me
