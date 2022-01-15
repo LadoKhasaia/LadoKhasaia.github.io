@@ -4,4 +4,4 @@ layout: page
 permalink: /contact
 ---
 
-ladokhasaia@pm.me
+`khasaiapm@gmail.com`
