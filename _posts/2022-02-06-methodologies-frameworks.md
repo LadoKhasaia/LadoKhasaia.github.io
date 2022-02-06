@@ -16,7 +16,7 @@ image: meth_frame/Methodologies-Frameworks.png
 სინამდვილეში ამ ორ ტერმინს შორის დიდი განსხვავებაა, შეიძლება ვიფიქროთ რატომ არის საჭირო ამ ტერმინების ასე ზუსტად განმარტება, ყოველივე ეს რამე მოცემულობას ცვლის?
 ერთი შეხედვით არც არაფერს, გააჩნია ვინ იყენებს ამ ტერმინებს. მაგალითად, თუ გვსურს პროექტის მართვის მეთოდოლოგიებში და სამუშაო ჩარჩოები (`Frameworks`) ვერკვეოდეთ, პირველ რიგში უნდა ვიცოდეთ რომელს დავუძახოთ სამუშაო ჩარჩო და რომელს მეთოდოლოგია, ეს საბოლოო ჯამში ბევრ დამაბნეველ გარემოებას აგვარიდებს.
 
-**მეთოდოლოგია** არის განსაზღვრული პრინციპების, წესების, მეთოდების, პროცესების და სხვათა ნაკრები, რომელიც განგვისაზღვრავს  თუ როგორ და რა თანმიმდევრობით უნდა ვიმოქმედოთ სასურველი შედეგის მისაღწევად და ასევე გვეუბნება რას უნდა ველოდეთ ამ კონკრეტული ქმედებით. 
+**მეთოდოლოგია** არის განსაზღვრული პრინციპების, წესების, მეთოდების, პროცესების და სხვათა ნაკრები, რომელიც განგვისაზღვრავს თუ როგორ და რა თანმიმდევრობით უნდა ვიმოქმედოთ სასურველი შედეგის მისაღწევად და ასევე გვეუბნება რას უნდა ველოდეთ ამ კონკრეტული ქმედებით. 
 უფრო მარტივად რომ ავხსნათ, მეთოდოლოგია არის მკაფიოდ და დეტალურად განსაზღვრული ვიდრე სამუშაო ჩარჩო (`Framework`).   
 **სამუშაო ჩარჩო** (`Framework`) - დეტალიზაცია და კომპლექსურობა სამუშაო ჩარჩოში არ გვხვდება, რაც მას უფრო მოქნილს ხდის, შეუძლია მოერგოს სხვადასხვა სახის პროექტებს და გუნდებს. მაგრამ რადგან მეთოდოლოგიისგან განსხვავებით ის არ გვაძლევს წინასწარ განსაზღვრულ ნაბიჯებს, გაურკვევლობაც დიდია, გვიწევს დიდი გამოცდილება დავაგროვოთ კონკრეტულ ჩარჩოში მუშაობით, რათა სწორად წარვმართოთ მასში პროცესები.
 რაც უფრო კომპლექსური ხდება სამუშაო ჩარჩო, მით უფრო უახლოვდება მეთოდოლოგიას.
@@ -27,7 +27,7 @@ image: meth_frame/Methodologies-Frameworks.png
 საბოლოო ჯამში, თუ გვეცოდინება სხვადასხვა მეთოდოლოგიები და სამუშაო ჩარჩოები, მარტივად შევძლებთ მოვარგოთ ის ჩვენი პროექტის საჭიროებებს. უხეშად არ შემოვიტანთ მეთოდოლოგიას/სამუშაო ჩარჩოს, რომელიც საბოლოო ჯამში მოლოდინებს არ გაამართლებს.
 
 **პროექტის მართვის მეთოდოლოგიები** - [`PRINCE2`](https://en.wikipedia.org/wiki/PRINCE2), [`PMI’s PMBOK`](https://en.wikipedia.org/wiki/Project_Management_Body_of_Knowledge) (უფრო სტანდარტია)   
-**პროექტის მართვის სამუშაო ჩარჩოებია** - [`Scrum`](https://www.scrum.org/resources/what-is-scrum), [`Kanban`](https://kanbanize.com/kanban-resources/getting-started/what-is-kanban), [`XP`](https://www.agilealliance.org/glossary/xp/), [`DSDM`](https://www.agilebusiness.org/page/whatisdsdm), [`Crystal`](https://www.productplan.com/glossary/crystal-agile-framework/) და სხვ.   
+**პროექტის მართვის სამუშაო ჩარჩოები** - [`Scrum`](https://www.scrum.org/resources/what-is-scrum), [`Kanban`](https://kanbanize.com/kanban-resources/getting-started/what-is-kanban), [`XP`](https://www.agilealliance.org/glossary/xp/), [`DSDM`](https://www.agilebusiness.org/page/whatisdsdm), [`Crystal`](https://www.productplan.com/glossary/crystal-agile-framework/) და სხვ.   
 მათი ჰიბრიდები - [`PMI-ACP`](https://www.pmi.org/certifications/become-a-project-manager/pmi-acp), [`PRINCE2 Agile`](https://www.axelos.com/certifications/propath/prince2-agile-project-management/prince2-agile-foundation) და სხვ.
 
 > `Agile` - იგულისხმება [`Agile Manifesto`](https://agilemanifesto.org/), შესაბამისად მეთოდოლოგია ან სამუშაო ჩარჩო რომელიც იზიარებს `Agile` პრინციპებს, შეგვიძლია ვუწოდოთ `Agile`.
