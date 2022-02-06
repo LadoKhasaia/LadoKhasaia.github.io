@@ -30,4 +30,4 @@ image: meth_frame/Methodologies-Frameworks.png
 **პროექტის მართვის სამუშაო ჩარჩოებია** - `Scrum`, `Kanban`, `XP`, `DSDM`, `Crystal` და სხვ.   
 მათი ჰიბრიდები - `PMI-ACP`, `PRINCE2 Agile` და სხვ.
 
-> `Agile` - იგულისხმება `Agile Manifesto`, შესაბამისად მეთოდოლოგია ან სამუშაო ჩარჩო რომელიც იზიარებს `Agile` პრინციპებს, შეგვიძლია ვუწოდოთ `Agile`.
+> `Agile` - იგულისხმება [`Agile Manifesto`](https://agilemanifesto.org/), შესაბამისად მეთოდოლოგია ან სამუშაო ჩარჩო რომელიც იზიარებს `Agile` პრინციპებს, შეგვიძლია ვუწოდოთ `Agile`.
