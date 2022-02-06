@@ -26,8 +26,8 @@ image: meth_frame/Methodologies-Frameworks.png
 
 საბოლოო ჯამში, თუ გვეცოდინება სხვადასხვა მეთოდოლოგიები და სამუშაო ჩარჩოები, მარტივად შევძლებთ მოვარგოთ ის ჩვენი პროექტის საჭიროებებს. უხეშად არ შემოვიტანთ მეთოდოლოგიას/სამუშაო ჩარჩოს, რომელიც საბოლოო ჯამში მოლოდინებს არ გაამართლებს.
 
-**პროექტის მართვის მეთოდოლოგიები** - `PRINCE2`, `PMI’s PMBOK`(უფრო სტანდარტია)   
-**პროექტის მართვის სამუშაო ჩარჩოებია** - `Scrum`, `Kanban`, `XP`, `DSDM`, `Crystal` და სხვ.   
+**პროექტის მართვის მეთოდოლოგიები** - [`PRINCE2`](https://en.wikipedia.org/wiki/PRINCE2), [`PMI’s PMBOK`](https://en.wikipedia.org/wiki/Project_Management_Body_of_Knowledge) (უფრო სტანდარტია)   
+**პროექტის მართვის სამუშაო ჩარჩოებია** - [`Scrum`](https://www.scrum.org/resources/what-is-scrum), [`Kanban`](), `XP`, `DSDM`, `Crystal` და სხვ.   
 მათი ჰიბრიდები - `PMI-ACP`, `PRINCE2 Agile` და სხვ.
 
 > `Agile` - იგულისხმება [`Agile Manifesto`](https://agilemanifesto.org/), შესაბამისად მეთოდოლოგია ან სამუშაო ჩარჩო რომელიც იზიარებს `Agile` პრინციპებს, შეგვიძლია ვუწოდოთ `Agile`.
