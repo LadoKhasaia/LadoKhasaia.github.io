@@ -4,7 +4,7 @@ title: გამარჯობა
 permalink: /about
 ---
 
-მე ვარ ლადო ხასაია - `Agile Project Manager`.
+მე ვარ ლადო ხასაია - `Agile Coach`.
 
 ---
 
